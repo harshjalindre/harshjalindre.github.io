@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.ae8e2165.css",
-    "main.js": "/static/js/main.8bb5e79a.js",
+    "main.js": "/static/js/main.72309209.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/HarshJ.png": "/static/media/HarshJ.1d3fd0d5c15e33f8d77f.png",
     "static/media/about.png": "/static/media/about.99632fac2481b5d16db5.png",
     "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/Harsh-Jalindre-Update-Resume-18-March-2024.pdf": "/static/media/Harsh-Jalindre-Update-Resume-18-March-2024.4b37c345aec5520918c9.pdf",
     "static/media/logoHarsh.png": "/static/media/logoHarsh.e91b4daabfa45d1b9d8a.png",
-    "static/media/suicide.png": "/static/media/suicide.735c20c843325f7607b5.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.78e5a1d5e232456b8609.jpg",
     "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.ae8e2165.css.map": "/static/css/main.ae8e2165.css.map",
-    "main.8bb5e79a.js.map": "/static/js/main.8bb5e79a.js.map",
+    "main.72309209.js.map": "/static/js/main.72309209.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae8e2165.css",
-    "static/js/main.8bb5e79a.js"
+    "static/js/main.72309209.js"
   ]
 }
