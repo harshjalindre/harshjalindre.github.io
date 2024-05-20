@@ -51,7 +51,7 @@ function WorkExperience() {
           My <strong className="purple">Works Experience</strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are all the companie I've worked with.
+          Here are all the companies which I've worked for.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           {proj.map((projects, index) => (
