@@ -48,10 +48,10 @@ function WorkExperience() {
       {/* <Particle /> */}
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          My <strong className="purple">Works Experience</strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          Here are all the companie I've worked with.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           {proj.map((projects, index) => (
