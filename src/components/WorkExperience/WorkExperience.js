@@ -5,6 +5,7 @@ import WorkExperienceCards from "./WorkExperienceCards";
 
 import techleaper from "../../Assets/Companies/techleaper.png";
 import spero from "../../Assets/Companies/spero.png";
+import cw from "../../Assets/Companies/cw.png";
 
 
 function WorkExperience() {
@@ -27,6 +28,16 @@ function WorkExperience() {
       end         : 'Dec 2022',
       languages   : 'Codeigniter, React, PHP, Angular, Javascript, MySQL, PGSQL',
       link        : 'https://www.sperohealthcare.in/'
+    },
+
+    {
+      imgPath     : cw,
+      title       : 'Coder Word',
+      role        : 'Software Developer (Intern)',
+      start       : 'June 2021',
+      end         : 'Oct 2021',
+      languages   : 'Codeigniter, PHP, Angular, Javascript, MySQL, PGSQL',
+      link        : 'https://coderword.com/'
     },
     
   ]
