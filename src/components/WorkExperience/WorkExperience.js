@@ -1,0 +1,66 @@
+import React from "react";
+import { Container, Row, Col } from "react-bootstrap";
+import WorkExperienceCards from "./WorkExperienceCards";
+// import Particle from "../Particle";
+
+import techleaper from "../../Assets/Companies/techleaper.png";
+import spero from "../../Assets/Companies/spero.png";
+
+
+function WorkExperience() {
+
+  const proj = [
+    {
+      imgPath     : techleaper,
+      title       : 'TechLeaper Systems Pvt. Ltd.',
+      role        : 'Senior Software Developer',
+      start       : 'Dec 2022',
+      end         : 'April 2024',
+      languages   : 'Codeigniter, React, Laravel, PHP, Javascript, MySQL, MSSQL',
+      link        : 'https://techleaper.com/'
+    },
+    {
+      imgPath     : spero,
+      title       : 'Spero Innovation Healthcare Pvt. Ltd.',
+      role        : 'Software Developer',
+      start       : 'Nov 2021',
+      end         : 'Dec 2022',
+      languages   : 'Codeigniter, React, PHP, Angular, Javascript, MySQL, PGSQL',
+      link        : 'https://www.sperohealthcare.in/'
+    },
+    
+  ]
+  // console.log(proj)
+
+  return (
+    <Container fluid className="project-section">
+      {/* <Particle /> */}
+      <Container>
+        <h1 className="project-heading">
+          My Recent <strong className="purple">Works </strong>
+        </h1>
+        <p style={{ color: "white" }}>
+          Here are a few projects I've worked on recently.
+        </p>
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          {proj.map((projects, index) => (
+            <Col md={6} className="project-card" key={index}>
+              <WorkExperienceCards
+                imgPath={projects.imgPath}
+                title={projects.title}
+                role={projects.role}
+                start={projects.start}
+                end={projects.end}
+                languages={projects.languages}
+                link={projects.link}
+              />
+            </Col>
+          ))}
+        </Row>
+
+      </Container>
+    </Container>
+  );
+}
+
+export default WorkExperience;

@@ -30,7 +30,7 @@ function AboutCard() {
             </li>
           </ul>
 
-          <p style={{ color: "#f10132" }}>
+          <p style={{ color: "#f17b01" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
           <footer className="blockquote-footer">Harsh</footer>

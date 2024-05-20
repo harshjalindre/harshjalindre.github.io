@@ -10,11 +10,12 @@ import { Link } from "react-router-dom";
 import {
   // AiFillStar,
   AiOutlineHome,
-  // AiOutlineFundProjectionScreen,
+  AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
+import { BsPersonWorkspace } from "react-icons/bs";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -69,7 +70,7 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            {/* <Nav.Item>
+            <Nav.Item>
               <Nav.Link
                 as={Link}
                 to="/project"
@@ -80,7 +81,20 @@ function NavBar() {
                 />{" "}
                 Projects
               </Nav.Link>
-            </Nav.Item> */}
+            </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/workexperience"
+                onClick={() => updateExpanded(false)}
+              >
+                <BsPersonWorkspace
+                  style={{ marginBottom: "2px" }}
+                />{" "}
+                Work Experience
+              </Nav.Link>
+            </Nav.Item>
 
             <Nav.Item>
               <Nav.Link
