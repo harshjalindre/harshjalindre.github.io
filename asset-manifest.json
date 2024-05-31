@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.29e954f6.css",
-    "main.js": "/static/js/main.064ecfca.js",
+    "main.js": "/static/js/main.3cd4ba1e.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Animal.png": "/static/media/Animal.84c6ce3386ef14d7e681.png",
     "static/media/Techleaper.png": "/static/media/Techleaper.9ad6820ecf72041f0d73.png",
@@ -14,10 +14,10 @@
     "static/media/HHC.png": "/static/media/HHC.b226d765c96b53e2b918.png",
     "static/media/about.png": "/static/media/about.2c033d123c7196e5af32.png",
     "static/media/Scholarship.png": "/static/media/Scholarship.41379c82ca375a7fd006.png",
-    "static/media/HarshResumeAprilEnd.pdf": "/static/media/HarshResumeAprilEnd.be8b7d71a618dddb5ea6.pdf",
     "static/media/logoHarsh.png": "/static/media/logoHarsh.e91b4daabfa45d1b9d8a.png",
     "static/media/SmartVidya.png": "/static/media/SmartVidya.735c20c843325f7607b5.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.78e5a1d5e232456b8609.jpg",
+    "static/media/Harsh_Jalindre_Software_Developer_CV.pdf": "/static/media/Harsh_Jalindre_Software_Developer_CV.79d09af0676bd07540d5.pdf",
     "static/media/SmartVaidya.png": "/static/media/SmartVaidya.490ccfcf5985a43fcf2b.png",
     "static/media/Placement.png": "/static/media/Placement.ca6892f9eedcf46de0b3.png",
     "static/media/cw.png": "/static/media/cw.b7d114755a6a0557e376.png",
@@ -25,11 +25,11 @@
     "static/media/pre.svg": "/static/media/pre.ad0cf8703f61f52b6c29.svg",
     "index.html": "/index.html",
     "main.29e954f6.css.map": "/static/css/main.29e954f6.css.map",
-    "main.064ecfca.js.map": "/static/js/main.064ecfca.js.map",
+    "main.3cd4ba1e.js.map": "/static/js/main.3cd4ba1e.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29e954f6.css",
-    "static/js/main.064ecfca.js"
+    "static/js/main.3cd4ba1e.js"
   ]
 }
